@@ -3,5 +3,6 @@
     "minimap.background": "#00000000",
     "scrollbar.shadow": "#00000000"
   },
-  "cmake.sourceDirectory": "C:/Users/anush/Documents/To_do_app/To-Do-List-/myapp/windows"
+  "cmake.sourceDirectory": "C:/Users/anush/Documents/To_do_app/To-Do-List-/myapp/windows",
+  "cSpell.words": ["myapp", "mybox", "TODOLIST"]
 }
